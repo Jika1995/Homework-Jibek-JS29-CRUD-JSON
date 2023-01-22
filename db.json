@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "Xiaomi",
+      "price": "1500",
+      "url": "url",
+      "author": "erlan",
+      "id": 2
+    },
+    {
+      "title": "airpods",
+      "price": "3453",
+      "url": "sdv",
+      "author": "erlan",
+      "id": 3
+    },
+    {
+      "title": "sdfaf",
+      "price": "3453",
+      "url": "sdv",
+      "author": "erlan",
+      "id": 4
+    },
+    {
+      "title": "Samsung",
+      "price": "400",
+      "url": ";ldksf",
+      "author": "erlan",
+      "id": 5
+    },
+    {
+      "title": "Apple",
+      "price": "500",
+      "url": "error",
+      "author": "erlan",
+      "id": 6
+    }
+  ]
+}
